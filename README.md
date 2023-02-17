@@ -1,11 +1,17 @@
-### Hi there 👋
+### Helcome 👋
+
+- 🔭 I’m currently working on Digital Payments Team at Tuenti.
+- 📫 Follow me on Twitter [@frablamo](https://www.twitter.com/frablamo).
+- ⚡ Fun fact: I love reading books. Fantasy/Sci-fi are my favorites
+
+
 
 <!--
 **frablamo/frablamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 🌱 I’m currently learning Ruby on Rails and React.
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
