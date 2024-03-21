@@ -1,4 +1,4 @@
-### Helcome 👋
+### Welcome 👋
 
 - 🔭 I’m currently working on Digital Payments Team at Tuenti.
 - 📫 Follow me on Twitter [@frablamo](https://www.twitter.com/frablamo).
